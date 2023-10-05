@@ -1,0 +1,15 @@
+.container {
+  position: relative;
+  top: 80px;
+  padding: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  z-index: 0;
+  background-image: url(../../media/fondoCards.jpeg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  /* image-rendering: pixelated; */
+  min-height: 491px;
+  justify-content: space-evenly;
+}
